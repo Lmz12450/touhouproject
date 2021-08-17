@@ -1,0 +1,42 @@
+﻿生成启动时间为 2021/3/8 9:56:58。
+     1>项目“D:\whx\c语言\touhou\touhou-dabao\Win32Project1\Win32Project1\Win32Project1.vcxproj”在节点 2 上(Build 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(388,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Win32Project1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         D:\whx\c语言\本体\vs2013\vs2013a\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\touhoudemo.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Win32Project1.cpp
+         Win32Project1.cpp
+     1>d:\whx\c语言\touhou\touhou-dabao\win32project1\win32project1\lmz.h(308): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\whx\c语言\touhou\touhou-dabao\win32project1\win32project1\lmz.h(309): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\whx\c语言\touhou\touhou-dabao\win32project1\win32project1\lmz.h(335): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\whx\c语言\touhou\touhou-dabao\win32project1\win32project1\lmz.h(336): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\whx\c语言\touhou\touhou-dabao\win32project1\win32project1\lmz.h(439): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\whx\c语言\touhou\touhou-dabao\win32project1\win32project1\lmz.h(440): warning C4244: “-=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\whx\c语言\touhou\touhou-dabao\win32project1\win32project1\lmz.h(565): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\whx\c语言\touhou\touhou-dabao\win32project1\win32project1\lmz.h(658): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>d:\whx\c语言\touhou\touhou-dabao\win32project1\win32project1\lmz.h(664): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\whx\c语言\touhou\touhou-dabao\win32project1\win32project1\lmz.h(696): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\whx\c语言\touhou\touhou-dabao\win32project1\win32project1\lmz.h(796): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>d:\whx\c语言\touhou\touhou-dabao\win32project1\win32project1\lmz.h(797): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>d:\whx\c语言\touhou\touhou-dabao\win32project1\win32project1\lmz.h(807): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>d:\whx\c语言\touhou\touhou-dabao\win32project1\win32project1\lmz.h(808): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>d:\whx\c语言\touhou\touhou-dabao\win32project1\win32project1\lmz.h(972): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\whx\c语言\touhou\touhou-dabao\win32project1\win32project1\lmz.h(979): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\whx\c语言\touhou\touhou-dabao\win32project1\win32project1\lmz.h(1012): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\whx\c语言\touhou\touhou-dabao\win32project1\win32project1\lmz.h(1017): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\whx\c语言\touhou\touhou-dabao\win32project1\win32project1\lmz.h(1022): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\whx\c语言\touhou\touhou-dabao\win32project1\win32project1\lmz.h(1028): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>d:\whx\c语言\touhou\touhou-dabao\win32project1\win32project1\lmz.h(1029): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>d:\whx\c语言\touhou\touhou-dabao\win32project1\win32project1\lmz.h(1030): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>d:\whx\c语言\touhou\touhou-dabao\win32project1\win32project1\win32project1.cpp(298): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\whx\c语言\touhou\touhou-dabao\win32project1\win32project1\win32project1.cpp(553): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\whx\c语言\touhou\touhou-dabao\win32project1\win32project1\win32project1.cpp(973): warning C4553: “==”: 运算符不起任何作用；是否是有意使用“=”的?
+     1>d:\whx\c语言\touhou\touhou-dabao\win32project1\win32project1\lmz.h(191): warning C4715: “Boss::hit”: 不是所有的控件路径都返回值
+       Link:
+         D:\whx\c语言\本体\vs2013\vs2013a\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\whx\c语言\touhou\touhou-dabao\Win32Project1\Debug\touhoudemo.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\whx\c语言\touhou\touhou-dabao\Win32Project1\Debug\touhoudemo.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\whx\c语言\touhou\touhou-dabao\Win32Project1\Debug\touhoudemo.lib" /MACHINE:X86 Debug\Win32Project1.res
+         Debug\stdafx.obj
+         Debug\Win32Project1.obj
+         Win32Project1.vcxproj -> D:\whx\c语言\touhou\touhou-dabao\Win32Project1\Debug\touhoudemo.exe
+     1>已完成生成项目“D:\whx\c语言\touhou\touhou-dabao\Win32Project1\Win32Project1\Win32Project1.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.11
